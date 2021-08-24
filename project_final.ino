@@ -10,7 +10,7 @@ const int th2 = 40;
 
 int motion=0;
 
-String mobile = "+919099998060";
+String mobile = "+91**********";
 String msg;
 String condition;
 String inputString = "";         // a string to hold incoming data
